@@ -19,9 +19,9 @@ Table of Contents
   * cloudsim/            -- top level CloudSim directory
   * cloudsim/            -- top level CloudSim directory
   * cloudsim/            -- top level CloudSim directory
-    * cloudsim/            -- top level CloudSim directory
-      * cloudsim/            -- top level CloudSim directory
-        * cloudsim/            -- top level CloudSim directory
+  * cloudsim/            -- top level CloudSim directory
+  * cloudsim/            -- top level CloudSim directory
+  * cloudsim/            -- top level CloudSim directory
   
   * docs/   		              -- CloudSim API Documentation
   * examples/            -- CloudSim examples
