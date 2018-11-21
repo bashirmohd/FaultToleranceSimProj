@@ -1,7 +1,7 @@
-# FaultToleranceSimProj#
+# FaultToleranceSimProj
 A Framework for Efficient Management of FT in Cloud Data Centres and HPC Systems.
 
-#Table of Contents#
+Table of Contents
 -----------------
 
 1. Directory structure of the CloudSim Toolkit
@@ -13,7 +13,7 @@ A Framework for Efficient Management of FT in Cloud Data Centres and HPC Systems
 
 
 
-#1. Directory structure of the CloudSim Toolkit#
+1. Directory structure of the CloudSim Toolkit
 ----------------------------------------------
 
 *cloudsim/                -- top level CloudSim directory*
@@ -24,7 +24,7 @@ A Framework for Efficient Management of FT in Cloud Data Centres and HPC Systems
 	*tests/           -- CloudSim unit tests*
 
 
-#2. Software requirements: Java version 1.6 or newer#
+2. Software requirements: Java version 1.6 or newer
 ---------------------------------------------------
 
 CloudSim has been tested and ran on Sun's Java version 1.6.0 or newer.
@@ -33,7 +33,7 @@ If you have non-Sun Java version, such as gcj or J++, they may not be compatible
 You also need to install Ant to compile CloudSim (explained in more details later).
 
 
-#3. Installation and running the CloudSim Toolkit#
+3. Installation and running the CloudSim Toolkit
 ------------------------------------------------
 
 You just need to unpack the CloudSim file to install.
@@ -47,20 +47,20 @@ provided to compile and to run CloudSim applications:
   * jars/cloudsim-examples-<VERSION>-sources.jar   -- contains the CloudSim examples source code files
 
 
-#4. Running the CloudSim examples#
+4. Running the CloudSim examples
 --------------------------------
 
 Please read how to run the CloudSim examples in examples.txt
 
 
-#5. Learning CloudSim#
+5. Learning CloudSim
 --------------------
 
 To understand how to use CloudSim, please go through the examples provided
 in the examples/ directory.
 
 
-##6. Compiling CloudSim: using Ant#
+6. Compiling CloudSim: using Ant
 --------------------------------
 
 This release contains a simple buildfile for compiling CloudSim classes.
