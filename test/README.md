@@ -26,7 +26,7 @@ cloudsim/                -- top level CloudSim directory
 	sources/         -- CloudSim source code
 	tests/           -- CloudSim unit tests
 
-s/cloudsim-<VERSION>.jar                    -- contains the CloudSim class files
+*s/cloudsim-<VERSION>.jar                    -- contains the CloudSim class files
   * jars/cloudsim-<VERSION>-sources.jar            -- contains the CloudSim source code files
   * jars/cloudsim-examples-<VERSION>.jar           -- contains the CloudSim examples class files
   * jars/cloudsim-examples-<VERSION>-sources.jar   -- contains the CloudSim examples source code files
