@@ -16,12 +16,12 @@ Table of Contents
 1. Directory structure of the CloudSim Toolkit
 ----------------------------------------------
 
-*cloudsim/                -- top level CloudSim directory*
-	*docs/            -- CloudSim API Documentation*
-	*examples/        -- CloudSim examples*
-	*jars/            -- CloudSim jar archives*
-	*sources/         -- CloudSim source code*
-	*tests/           -- CloudSim unit tests*
+        *cloudsim/        -- top level CloudSim directory
+	*docs/            -- CloudSim API Documentation
+	*examples/        -- CloudSim examples
+	*jars/            -- CloudSim jar archives
+	*sources/         -- CloudSim source code
+	*tests/           -- CloudSim unit tests 
 
 
 2. Software requirements: Java version 1.6 or newer
