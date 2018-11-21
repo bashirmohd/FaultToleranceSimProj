@@ -23,7 +23,7 @@ Table of Contents
 	*sources/         -- CloudSim source code
 	*tests/           -- CloudSim unit tests 
   * cloudsim/                                      -- contains the CloudSim class files
-  * jars/                                          -- contains the CloudSim source code files
+  * jars/                                             -- contains the CloudSim source code files
   * jars/cloudsim-examples-<VERSION>.jar           -- contains the CloudSim examples class files
   * jars/cloudsim-examples-<VERSION>-sources.jar   -- contains the CloudSim examples source code files
 
