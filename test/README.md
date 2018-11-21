@@ -18,11 +18,11 @@ Table of Contents
 
   * cloudsim/                   -- top level CloudSim directory
   * cloudsim/            -- top level CloudSim directory
-	 * docs/		-- CloudSim API Documentation
-	 * examples/            -- CloudSim examples
-	 * jars/                -- CloudSim jar archives
-	 * sources/             -- CloudSim source code
-	 * tests/               -- CloudSim unit tests
+  * docs/		-- CloudSim API Documentation
+  * examples/            -- CloudSim examples
+  * jars/                -- CloudSim jar archives
+  * sources/             -- CloudSim source code
+  * tests/               -- CloudSim unit tests
 
 
 2. Software requirements: Java version 1.6 or newer
