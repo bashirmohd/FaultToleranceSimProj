@@ -17,11 +17,11 @@ Table of Contents
 ----------------------------------------------
 
   * cloudsim/            -- top level CloudSim directory
-  * cloudsim/            -- top level CloudSim directory
-  * cloudsim/            -- top level CloudSim directory
-  * cloudsim/            -- top level CloudSim directory
-  * cloudsim/            -- top level CloudSim directory
-  * cloudsim/            -- top level CloudSim directory
+      * docs/            -- CloudSim API Documentation
+  * examples/            -- CloudSim examples
+  * cloudsim/            -- CloudSim jar archives
+  * cloudsim/            -- CloudSim source code
+  * cloudsim/            -- CloudSim unit tests
   
   * docs/   		              -- CloudSim API Documentation
   * examples/            -- CloudSim examples
