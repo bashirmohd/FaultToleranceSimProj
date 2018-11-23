@@ -1,5 +1,5 @@
 # FaultToleranceSimProj
-A Framework for Efficient Management of FT in Cloud Data Centres and HPC Systems.
+A Framework for Efficient Management of FT in Cloud Data Centres and HPC Systems built on Java.
 
 Table of Contents
 -----------------
